@@ -1,0 +1,25 @@
+{
+  "name": "simcapsule-app-example",
+  "version": "0.0.1",
+  "description": "A simple React app based on.",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "render": "1.0.0",
+    "wgl": "1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "3.0.1",
+    "vite": "4.0.4"
+  },
+
+  "browserslist": [
+    ">0.2%",
+    "not dead"
+  ]
+}
