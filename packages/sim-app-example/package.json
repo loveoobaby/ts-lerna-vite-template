@@ -10,14 +10,13 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@babel/core": "^7.23.2",
     "render": "1.0.0",
     "wgl": "1.0.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "3.0.1",
     "vite": "4.0.4"
   },
-
   "browserslist": [
     ">0.2%",
     "not dead"
