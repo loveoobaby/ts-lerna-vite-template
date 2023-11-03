@@ -1,21 +1,21 @@
 {
-  "name": "wgl",
+  "name": "lib1",
   "version": "1.0.0",
-  "description": "The library to build browser based 3D models with code",
+  "description": "",
   "keywords": [
-    "webgl"
+    "lib1"
   ],
-  "author": "Steve Genoud <steve@sgenoud.com>",
-  "homepage": "https://simcapsule.cn",
+  "author": "loveoobaby",
+  "homepage": "https://xxx",
   "license": "MIT",
   "type": "module",
-  "main": "./dist/wgl.cjs",
-  "module": "./dist/wgl.js",
-  "types": "./dist/wgl.d.ts",
+  "main": "./dist/lib1.cjs",
+  "module": "./dist/lib1.js",
+  "types": "./dist/lib1.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/wgl.js",
-      "require": "./dist/wgl.umd.cjs"
+      "import": "./dist/lib1.js",
+      "require": "./dist/lib1.umd.cjs"
     }
   },
   "directories": {

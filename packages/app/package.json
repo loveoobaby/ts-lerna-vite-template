@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@babel/core": "^7.23.2",
-    "render": "1.0.0",
-    "wgl": "1.0.0"
+    "lib1": "1.0.0",
+    "lib2": "1.0.0"
   },
   "devDependencies": {
     "vite": "4.0.4"

@@ -1,21 +1,21 @@
 {
-  "name": "render",
+  "name": "lib2",
   "version": "1.0.0",
   "description": "",
   "keywords": [
-    "render"
+    ""
   ],
-  "author": "lixingjun <xingjun.li@ibe.cn>",
-  "homepage": "https://simcapsule.cn",
+  "author": "",
+  "homepage": "https://xxx.com",
   "license": "MIT",
   "type": "module",
-  "main": "./dist/render.cjs",
-  "module": "./dist/render.js",
-  "types": "./dist/render.d.ts",
+  "main": "./dist/lib2.cjs",
+  "module": "./dist/lib2.js",
+  "types": "./dist/lib2.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/render.js",
-      "require": "./dist/render.umd.cjs"
+      "import": "./dist/lib2.js",
+      "require": "./dist/lib2.umd.cjs"
     }
   },
   "directories": {

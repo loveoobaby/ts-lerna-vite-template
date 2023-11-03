@@ -6,8 +6,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, "src/index.ts"),
-      name: "render",
-      fileName: "render",
+      name: "lib1",
+      fileName: "lib1",
       formats: ["es", "umd", "cjs"],
     },
     sourcemap: true,

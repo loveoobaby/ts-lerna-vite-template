@@ -6,8 +6,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, "src/index.ts"),
-      name: "wgl",
-      fileName: "wgl",
+      name: "lib2",
+      fileName: "lib2",
       formats: ["es", "umd", "cjs"],
     },
     sourcemap: true,
